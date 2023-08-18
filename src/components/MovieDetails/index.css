@@ -1,0 +1,36 @@
+
+
+
+.movie-overview-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+    background-color: #0C2D48;
+    border-radius: 5px;
+    color: white;
+}
+
+.movie-details-container{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;  
+}
+
+.img-movie-poster{
+    height: 150px;
+    width: 100px;
+}
+.sub-movie-details-container{
+    display: flex;
+    align-items: center;
+}
+
+.movie-cast-container{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
